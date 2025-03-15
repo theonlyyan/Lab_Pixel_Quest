@@ -83,7 +83,7 @@ public class GeoControl : MonoBehaviour
                     SceneManager.LoadScene(thisLevel);
                     break;
                 }
-           case "Finsh":
+           case "Finish":
            
             {
                 SceneManager.LoadScene(nextLevel);
