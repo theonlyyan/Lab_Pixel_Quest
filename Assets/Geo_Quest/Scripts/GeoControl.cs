@@ -64,6 +64,7 @@ public class GeoControl : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.S))
         {
             rb.velocity = new Vector2(1, rb.velocity.y);
+        
         } 
     }   */
 
